@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../scrape2"
+		},
+		{
+			"path": "../render"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
